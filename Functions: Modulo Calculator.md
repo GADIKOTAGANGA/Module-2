@@ -11,9 +11,27 @@ To write a Python program that defines a function which accepts two values and r
 5. Call the `result` function with the user-provided values.
 
 ## 🧾 Program
+```
+def mean_value(a, b, c):
+    """Calculate the mean of three values."""
+    return (a + b + c) / 3
 
-Add code Here
+# Input values
+value1 = float(input())
+value2 = float(input())
+value3 = float(input())
+
+# Calculate mean
+mean = mean_value(value1, value2, value3)
+
+# Print the result in the expected format
+print(f"mean is {mean}")
+
+```
+
 
 ## Output
+![Screenshot (208)](https://github.com/user-attachments/assets/614b2639-79d2-45fe-9082-27c9aad12bb7)
 
 ## Result
+THE expected output is acheived
