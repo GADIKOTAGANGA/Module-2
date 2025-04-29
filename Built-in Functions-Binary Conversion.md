@@ -17,7 +17,8 @@ print(b)
 
 
 ## Output
-![Screenshot (207)](https://github.com/user-attachments/assets/3029d257-404e-478e-8584-87555bdcf077)
+![Screenshot 2025-04-29 181331](https://github.com/user-attachments/assets/3fcd2562-4ee4-4e59-9341-89cfa81bc836)
+
 
 ## Result
 The expected output is acheived
