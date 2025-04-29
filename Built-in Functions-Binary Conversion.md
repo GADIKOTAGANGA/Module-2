@@ -20,3 +20,4 @@ print(b)
 ![Screenshot (207)](https://github.com/user-attachments/assets/3029d257-404e-478e-8584-87555bdcf077)
 
 ## Result
+The expected output is acheived
