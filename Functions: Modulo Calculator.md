@@ -31,7 +31,7 @@ print(f"mean is {mean}")
 
 
 ## Output
-![Screenshot (208)](https://github.com/user-attachments/assets/614b2639-79d2-45fe-9082-27c9aad12bb7)
+![Screenshot 2025-04-29 173825](https://github.com/user-attachments/assets/5c92978a-242d-4418-b82a-2d8ee8b0a1c4)
 
 ## Result
 THE expected output is acheived
